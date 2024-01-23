@@ -158,14 +158,14 @@ class About extends Me
 </li>
 
 
-<br>
+<!-- <br>
 
 
 <li>
 <a href="mailto:rodrigues.rodrigo2003@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
-</li>
+</li> -->
 	
 </ul>
 </div>
