@@ -17,8 +17,8 @@ class About extends Me
         return [
             'university' => [
                 'name' => 'FEUP',
-                'degree' => 'Bachelor in Informatics and Computer Engineering',
-                'year' => 3         
+                'degree' => 'Master's in Informatics and Computer Engineering',
+                'year' => 1         
             ]
         ];
     }
@@ -29,14 +29,15 @@ class About extends Me
             Php::class,
             Javascript::class,
             NodeJs::class,
+	    NextJs::class,	
             HTML::class,
             CSS::class,
             Java::class,
             Python::class,
-            C::class,
             C++::class,
             Laravel::class,
             Bootstrap::class,
+	    TailwindCSS::class,
             Postgres::class,
             SQLite::class,
             Git::class,
