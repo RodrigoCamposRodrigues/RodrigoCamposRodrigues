@@ -60,9 +60,12 @@ class About extends Me
 | Name      | Description                                                                                                                                                   |
 |-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Feupbook](https://github.com/RodrigoCamposRodrigues/feupbook) | An innovative and vibrant social network tailored specifically for the students of the Faculty of Engineering at the University of Porto (FEUP). Developed using the Laravel framework and Bootstrap. |
-| [Space Invaders](https://github.com/RodrigoCamposRodrigues/space_invaders) | A Space Invaders clone developed in Java |
-| [Recipe Wizard](https://github.com/RodrigoCamposRodrigues/recipe-wizard) | Flutter app that facilitates recipe browsing and searching by ingredient with an intuitive and responsive UI |
-| [Railway Manager](https://github.com/RodrigoCamposRodrigues/railway-manager) | Railway Manager to view data about train lines and deduce best paths based on flow and cost |
+| [AI4SD](https://github.com/RodrigoCamposRodrigues/FEUP-DS) | AI4SD (AI for Software Development) is an innovative large-scale project developed as part of the DSLE 2024-25 course that explores how artificial intelligence can enhance the software development lifecycle (SDLC). |
+| [Local-First Shopping List Application](https://github.com/RodrigoCamposRodrigues/FEUP-SDLE) | This project is a Local-First Shopping List Application designed as part of a Large-Scale Distributed Systems course. |
+| [Automotive Review Search Engine](https://github.com/RodrigoCamposRodrigues/FEUP-PRI) | Automotive review search engine leveraging sophisticated retrieval techniques to deliver relevant vehicle evaluations. |
+| [Space Invaders](https://github.com/RodrigoCamposRodrigues/space_invaders) | A Space Invaders clone developed in Java. |
+| [Recipe Wizard](https://github.com/RodrigoCamposRodrigues/recipe-wizard) | Flutter app that facilitates recipe browsing and searching by ingredient with an intuitive and responsive UI. |
+| [Railway Manager](https://github.com/RodrigoCamposRodrigues/railway-manager) | Railway Manager to view data about train lines and deduce best paths based on flow and cost. |
 | [Data Link Layer Protocol](https://github.com/RodrigoCamposRodrigues/feup-rcom/tree/main/proj1) | Implementation of a data link layer protocol and development of a simple transmitter and receiver data transfer application in C. |
 | [FTP protocol](https://github.com/RodrigoCamposRodrigues/feup-rcom/tree/main/proj2) | Development of a download application in C. |
 
