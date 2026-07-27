@@ -11,7 +11,7 @@ I'm now extending that system into a **multi-turn conversational search engine**
 - 🔭 **Currently:** extending my thesis RAG system into a multi-turn conversational search system
 - 🌱 **Exploring:** LangChain, conversational retrieval, and agentic patterns
 - 🎯 **Open to:** Junior AI Engineer roles
-- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/rcr21/) · [Email](mailto:rodrigues.rodrigo2003@gmail.com)
+- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/rcr21/) · [rodrigues.rodrigo2003@gmail.com](mailto:rodrigues.rodrigo2003@gmail.com)
 
 ## 🛠️ Tech stack
 
@@ -31,4 +31,4 @@ I'm now extending that system into a **multi-turn conversational search engine**
 ## Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rcr21/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigues.rodrigo2003@gmail.com)
+[![Email](https://img.shields.io/badge/rodrigues.rodrigo2003%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigues.rodrigo2003@gmail.com)
