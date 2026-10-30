@@ -23,6 +23,7 @@ I'm now extending that system into a **multi-turn conversational search engine**
 
 | Project | What it is |
 |---------|------------|
+| [World Cup Conversational Search](https://github.com/RodrigoCamposRodrigues/world-cup-conversational-search) | A conversational search assistant over a fictional World Cup dataset: a LangGraph workflow resolves follow-ups and asks clarifying questions, and a validated query planner retrieves evidence from Solr for source-cited answers. |
 | [Automotive Review Search Engine](https://github.com/RodrigoCamposRodrigues/FEUP-PRI) | A search engine over automotive reviews using information-retrieval techniques (indexing, ranking, relevance evaluation) — the retrieval foundations behind RAG. |
 | [AI4SD — AI for Software Development](https://github.com/RodrigoCamposRodrigues/FEUP-DS) | A large-scale project exploring how AI can enhance the software-development lifecycle (SDLC). |
 | [Feupbook](https://github.com/RodrigoCamposRodrigues/feupbook) | A full-stack social network for FEUP students, built end-to-end with Laravel and Bootstrap. |
