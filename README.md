@@ -6,16 +6,16 @@ I build LLM-powered applications, with a focus on **Retrieval-Augmented Generati
 
 For my master's thesis I designed and built a **RAG-based generative question-answering system**. The full retrieval-and-generation pipeline implemented from scratch in Python (no orchestration frameworks), calling LLM APIs for the generation step. A paper on this work is currently in progress.
 
-I'm now extending that system into a **multi-turn conversational search engine**, and exploring frameworks such as LangChain along the way.
+I extended that system into a **multi-turn conversational search engine** built with LangGraph.
 
 - 🔭 **Currently:** extending my thesis RAG system into a multi-turn conversational search system
-- 🌱 **Exploring:** LangChain, conversational retrieval, and agentic patterns
+- 🌱 **Exploring:** agent reliability and evaluation, and taking LLM systems to production (CI, containers, monitoring)
 - 🎯 **Open to:** Junior AI Engineer roles
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/rcr21/) · [rodrigues.rodrigo2003@gmail.com](mailto:rodrigues.rodrigo2003@gmail.com)
 
 ## 🛠️ Tech stack
 
-**AI / ML:** Python · LLM APIs · LangGraph · Retrieval-Augmented Generation (RAG) · Embeddings & semantic search · Browser agents (Playwright) · NLP / information retrieval
+**AI / ML:** Python · LLM APIs · LangGraph · Retrieval-Augmented Generation (RAG) · Embeddings & semantic search · Browser agents (Playwright) · LLM evals & tracing (LangSmith) · NLP / information retrieval
 
 **Also comfortable with:** JavaScript / Node.js · Next.js · Laravel (PHP) · Java · C / C++ · PostgreSQL · SQLite · Git
 
