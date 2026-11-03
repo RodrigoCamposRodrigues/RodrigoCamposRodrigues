@@ -15,7 +15,7 @@ I'm now extending that system into a **multi-turn conversational search engine**
 
 ## 🛠️ Tech stack
 
-**AI / ML:** Python · LLM APIs · Retrieval-Augmented Generation (RAG) · Embeddings & semantic search · NLP / information retrieval
+**AI / ML:** Python · LLM APIs · LangGraph · Retrieval-Augmented Generation (RAG) · Embeddings & semantic search · Browser agents (Playwright) · NLP / information retrieval
 
 **Also comfortable with:** JavaScript / Node.js · Next.js · Laravel (PHP) · Java · C / C++ · PostgreSQL · SQLite · Git
 
