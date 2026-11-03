@@ -4,7 +4,7 @@
 
 I build LLM-powered applications, with a focus on **Retrieval-Augmented Generation (RAG)** and **LLM agents**.
 
-For my master's thesis I designed and built a **RAG-based generative question-answering system**. I implemented the full retrieval-and-generation pipeline from scratch in Python (no orchestration frameworks), calling LLM APIs for the generation step. A paper on this work is currently in progress.
+For my master's thesis I designed and built a **RAG-based generative question-answering system**. I implemented the full retrieval-and-generation pipeline from scratch in Python (no orchestration frameworks), calling LLM APIs for the generation step. A full paper on this work has been submitted to ECIR, and a resource paper is in progress.
 
 I extended that system into a **multi-turn conversational search engine** built with LangGraph.
 
