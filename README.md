@@ -15,9 +15,9 @@ I extended that system into a **multi-turn conversational search engine** built 
 
 ## 🛠️ Tech stack
 
-**AI / ML:** Python · LLM APIs · LangGraph · LangChain · Retrieval-Augmented Generation (RAG) · Embeddings & semantic search · Browser agents (Playwright) · LLM evals & tracing (LangSmith) · NLP / information retrieval
+**AI / ML:** Python · LangGraph · LangChain · LLM APIs · Retrieval-Augmented Generation (RAG) · Embeddings & semantic search · Information retrieval (Apache Solr) · Browser agents (Playwright) · LLM evals & tracing (LangSmith)
 
-**Also comfortable with:** FastAPI · Docker · Apache Solr · JavaScript / Node.js · Next.js · Laravel (PHP) · Java · C / C++ · PostgreSQL · SQLite · Git
+**Engineering:** FastAPI · Docker · PostgreSQL · SQLite · Git
 
 ## 📌 Featured projects
 
