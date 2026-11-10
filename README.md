@@ -8,7 +8,7 @@ For my master's thesis I designed and built a **RAG-based generative question-an
 
 I extended that system into a **multi-turn conversational search engine** built with LangGraph.
 
-- 🔭 **Currently:** building LLM agents that are safe to run on real systems (latest: [Legacy Password Rotation Agent](https://github.com/RodrigoCamposRodrigues/legacy-password-rotation-agent))
+- 🔭 **Currently:** building LLM agents that are safe to run on real systems
 - 🌱 **Exploring:** agent reliability and evaluation, and taking LLM systems to production (CI, containers, monitoring)
 - 🎯 **Open to:** Junior AI Engineer roles
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/rcr21/) · [rodrigues.rodrigo2003@gmail.com](mailto:rodrigues.rodrigo2003@gmail.com)
