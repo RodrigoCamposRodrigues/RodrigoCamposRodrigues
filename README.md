@@ -28,8 +28,6 @@ I extended that system into a **multi-turn conversational search engine** built 
 | [World Cup Conversational Search](https://github.com/RodrigoCamposRodrigues/world-cup-conversational-search) | A conversational search assistant over a fictional World Cup dataset: a LangGraph workflow resolves follow-ups and asks clarifying questions, and a validated query planner retrieves evidence from Solr for source-cited answers. |
 | [Automotive Review Search Engine](https://github.com/RodrigoCamposRodrigues/FEUP-PRI) | A search engine over automotive reviews using information-retrieval techniques (indexing, ranking, relevance evaluation) — the retrieval foundations behind RAG. |
 | [AI4SD: AI for Software Development](https://github.com/RodrigoCamposRodrigues/FEUP-DS) | A 150+ student project building AI assistants for the software development lifecycle. In the Verification & Validation area, my team built req2test, which turns requirements into Gherkin acceptance tests with Gemini. |
-| [Feupbook](https://github.com/RodrigoCamposRodrigues/feupbook) | A full-stack social network for FEUP students, built end-to-end with Laravel and Bootstrap. |
-| [Local-First Shopping List](https://github.com/RodrigoCamposRodrigues/FEUP-SDLE) | A local-first, distributed shopping-list application from a large-scale distributed systems course. |
 
 ## Let's connect
 
